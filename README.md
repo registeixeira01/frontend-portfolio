@@ -1,3 +1,3 @@
-# Acesse meu projeto de gerador de senhas 👇
+# Acesse meu projeto clone da Netflix abaixo
 
 https://registeixeira01.github.io/Clone-Netflix/
